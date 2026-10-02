@@ -212,4 +212,4 @@ ContaNet is available as a free download, providing you with the full version an
 Don't wait! **Download ContaNet now** and take the first step towards effortless business management!
 
 ---
-**Last updated:** 2026-10-02 01:21:27 UTC
+**Last updated:** 2026-10-02 08:03:47 UTC
